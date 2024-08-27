@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **matthew4.tch@gmail.com**
+- 📫 Feel free to contact me at **matthew4.tch@gmail.com**
 
 - ⚡ Fun fact **I'm a former professional athlete.**
 
