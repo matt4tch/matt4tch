@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt4tch&label=Profile%20views&color=0e75b6&style=flat" alt="matt4tch" /> </p>
 
-- 🔭 I’m currently working on **an internship at Tuq**
+- 🔭 I’m currently working on my 3A study term at the University of Waterloo
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **Neovim Plugins**
-
 - 💬 Ask me about **C++**
 
-- 📫 Feel free to contact me at **matthew4.tch@gmail.com**
+- 📫 Feel free to contact me at **matthew4.tch@gmail.com** or **m2tchoui@uwaterloo.ca**
 
 - ⚡ Fun fact **I'm a former professional athlete.**
 
