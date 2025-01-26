@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt4tch&label=Profile%20views&color=0e75b6&style=flat" alt="matt4tch" /> </p>
 
-- 🔭 I’m currently working on my 3A study term at the University of Waterloo
+- 🔭 I’m currently on my 3A study term at the University of Waterloo
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **C++**
 
