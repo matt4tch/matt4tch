@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A passionate software developer from Toronto, Canada</h3>
+<h3 align="center">A software developer from Toronto, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matt4tch&label=Profile%20views&color=0e75b6&style=flat" alt="matt4tch" /> </p>
 
@@ -10,8 +10,6 @@
 - 💬 Ask me about **C++**
 
 - 📫 Feel free to contact me at **matthew4.tch@gmail.com** or **m2tchoui@uwaterloo.ca**
-
-- ⚡ Fun fact **I'm a former professional athlete.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
