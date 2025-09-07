@@ -2,7 +2,7 @@
 
 - I’m currently on my 3B study term at the University of Waterloo. I'm doing a joint Bachelor's degree in Computer Science and Pure Mathematics.
 
-- I’m currently building a mobile app with **Expo React Native** and learning **Neovim** to enhance my productivity.
+- I’m currently building a mobile app with **Expo React Native** and am learning **Neovim** to enhance my productivity.
 
 - Recently, I picked up **Typst**, a modern alternative to **LaTeX**, which allows me to take awesome-looking notes more efficiently.
 
