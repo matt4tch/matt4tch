@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Matthew</h1>
-<h3 align="center">A software developer from Toronto, Canada</h3>
+<h1 align="center">Hi, I'm Matthew</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matt4tch&label=Profile%20views&color=0e75b6&style=flat" alt="matt4tch" /> </p>
+- I’m currently on my 3B study term at the University of Waterloo. I'm doing a joint Bachelor's degree in Computer Science and Pure Mathematics.
 
-- 🔭 I’m currently on my 3A study term at the University of Waterloo
+- I’m currently building a mobile app with **Expo React Native** and learning **Neovim** to enhance my productivity.
 
-- 🌱 I’m currently learning **Next.js**
+- Recently, I picked up **Typst**, a modern alternative to **LaTeX**, which allows me to take awesome-looking notes more efficiently.
 
-- 💬 Ask me about **C++**
+- Ask me about **C++**.
 
-- 📫 Feel free to contact me at **matthew4.tch@gmail.com** or **m2tchoui@uwaterloo.ca**
+- Feel free to contact me at **matthew4.tch@gmail.com** or **m2tchoui@uwaterloo.ca**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matt4tch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matt4tch" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/matt4tch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matt4tch" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/matt4tch](https://www.youtube.com/@Mattamorphosis/videos)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="matt4tch" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
